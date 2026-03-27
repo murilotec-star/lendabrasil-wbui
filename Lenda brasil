@@ -1,0 +1,87 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": true,
+			"hideiconafter": 99999999,
+			"iconurl": "https://imgur.com/TALcuqp.png",
+			"disableicontext": true,
+			"iconposition": 0,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "Bem Vindo",
+				"imageurl": "https://imgur.com/CqFS9aQ.png",
+				"content": [
+					{
+						"title": "<TextStyle.Orange>LENDA BRASIL</>",
+						"text": "                                                      <TextStyle.Orange>Bem vindo (a) à comunidade de Ark Ascended Lenda Brasil.</>"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Informações",
+				"imageurl": "https://imgur.com/CqFS9aQ.png",
+				"content": [
+					{
+						"title": "<TextStyle.Orange>INFORMAÇÕES DO SERVIDOR</>",
+						"text": "\r\n\r\nEntre em nosso Discord para acessar regras, suporte e avisos importantes.\r\n\r\n<TextStyle.Red>É obrigatório ler as regras!</> Comércio em DINHEIRO REAL é proibido e resulta em BAN para comprador e vendedor.\r\n\r\nEste servidor é gratuito. Caso queira apoiar, confira nossa loja — toda doação é revertida em infraestrutura.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<TextStyle.Green>THE ISLAND — FIXO</>\r\n<TextStyle.Green>ASTRAEOS — FIXO</>\r\n<TextStyle.Green>VALGUERO— ROTATIVO 30 DIAS</>"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Players Online",
+				"imageurl": "https://imgur.com/CqFS9aQ.png",
+				"content": [
+					{
+						"title": "<TextStyle.Orange>Jogadores Online</>",
+						"text": "{playerlist}"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Registro",
+				"imageurl": "https://imgur.com/CqFS9aQ.png",
+				"content": [
+					{
+						"title": "<TextStyle.Orange>Como Configurar</>",
+						"text": "<TextStyle.LightBlue>Ini Header:</>\r\n\r\n[WBUI2]\r\n\r\nJsonURL=\"url\"  -  default: \"https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json\"\r\n\r\nVocê deve hospedar o arquivo como RAW e inserir o link aqui.\r\n\r\nPara atualizar manualmente:\r\ncheat scriptcommand WBUI2 update"
+					},
+					{
+						"title": "<TextStyle.Orange>Opções do JSON</>",
+						"text": "OpenButton – 0 a 6 (F1 a Home)\nHideIcon – Oculta o ícone\nHideIconAfter – Tempo até desaparecer\nIconURL – URL da imagem do ícone\nDisableIconText – Remove o texto do ícone\nIconPosition – Posição do ícone\nIconTextColor – Cor do texto\nOpenOnStart – Abre ao entrar\nOpenOnStartOnlyNewPlayers – Apenas novos jogadores\nUpdateInterval – Intervalo de atualização\n\nUse \"\\n\" para quebras de linha.\nCaracteres especiais precisam de escape.\n\nAtualização manual:\n\"cheat scriptcommand WBUI2 update\""
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Nosso Discord",
+				"url": "https://discord.gg/M7zVEwwVbH"
+			},
+			{
+				"text": "TikTok",
+				"url": "https://www.tiktok.com/@lendabrasilark"
+			},
+			{
+				"text": "Instagram",
+				"url": "https://www.instagram.com/lendabrasilark/"
+			},
+			{
+				"text": "Loja",
+				"url": "https://www.catallo.com.br/catalogo/lendabrasilark"
+			}
+		],
+		"version": 2
+	}
+}
