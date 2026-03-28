@@ -5,7 +5,7 @@
 		{
 			"openbutton": 0,
 			"hideicon": true,
-			"hideiconafter": 99999999,
+			"hideiconafter": 300,
 			"iconurl": "https://imgur.com/TALcuqp.png",
 			"disableicontext": true,
 			"iconposition": 0,
