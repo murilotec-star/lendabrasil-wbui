@@ -22,7 +22,7 @@
 				"content": [
 					{
 						"title": "<TextStyle.Orange>LENDA BRASIL</>",
-						"text": "                                                      <TextStyle.Orange>Bem vindo (a) à comunidade de Ark Ascended Lenda Brasil.</>"
+						"text": "                                                      <TextStyle.Orange>Bem vindo(a) à comunidade de Ark Ascended Lenda Brasil.</>"
 					}
 				]
 			},
@@ -33,7 +33,7 @@
 				"content": [
 					{
 						"title": "<TextStyle.Orange>INFORMAÇÕES DO SERVIDOR</>",
-						"text": "\r\n\r\nEntre em nosso Discord para acessar regras, suporte e avisos importantes.\r\n\r\n<TextStyle.Red>É obrigatório ler as regras!</> Comércio em DINHEIRO REAL é proibido e resulta em BAN para comprador e vendedor.\r\n\r\nEste servidor é gratuito. Caso queira apoiar, confira nossa loja — toda doação é revertida em infraestrutura.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<TextStyle.Green>THE ISLAND — FIXO</>\r\n<TextStyle.Green>ASTRAEOS — FIXO</>\r\n<TextStyle.Green>VALGUERO— ROTATIVO 30 DIAS</>"
+						"text": "\r\n\r\n<TextStyle.Red>Leia as Regras!</> \r\nEste servidor é gratuito. Caso queira apoiar, confira nossa loja — toda doação é revertida em infraestrutura.\r\nComércio em DINHEIRO REAL é proibido e resulta em BAN para comprador e vendedor.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<TextStyle.Green>THE ISLAND — FIXO</>\r\n<TextStyle.Green>ASTRAEOS — FIXO</>\r\n<TextStyle.Green>VALGUERO— ROTATIVO 30 DIAS</>"
 					}
 				]
 			},
@@ -51,15 +51,30 @@
 			{
 				"layout": 2,
 				"buttontext": "Registro",
-				"imageurl": "https://imgur.com/CqFS9aQ.png",
+				"imageurl": "https://imgur.com/CDbKsWD.png",
 				"content": [
 					{
-						"title": "<TextStyle.Orange>Como Configurar</>",
-						"text": "<TextStyle.LightBlue>Ini Header:</>\r\n\r\n[WBUI2]\r\n\r\nJsonURL=\"url\"  -  default: \"https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json\"\r\n\r\nVocê deve hospedar o arquivo como RAW e inserir o link aqui.\r\n\r\nPara atualizar manualmente:\r\ncheat scriptcommand WBUI2 update"
+						"title": "<TextStyle.Orange>Registro</>",
+						"text": "Em Desenvolvimento"
 					},
 					{
-						"title": "<TextStyle.Orange>Opções do JSON</>",
-						"text": "OpenButton – 0 a 6 (F1 a Home)\nHideIcon – Oculta o ícone\nHideIconAfter – Tempo até desaparecer\nIconURL – URL da imagem do ícone\nDisableIconText – Remove o texto do ícone\nIconPosition – Posição do ícone\nIconTextColor – Cor do texto\nOpenOnStart – Abre ao entrar\nOpenOnStartOnlyNewPlayers – Apenas novos jogadores\nUpdateInterval – Intervalo de atualização\n\nUse \"\\n\" para quebras de linha.\nCaracteres especiais precisam de escape.\n\nAtualização manual:\n\"cheat scriptcommand WBUI2 update\""
+						"title": "<TextStyle.Orange>Kit Inicial</>",
+						"text": "Em Desenvolvimento"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Mods",
+				"imageurl": "https://imgur.com/CDbKsWD.png",
+				"content": [
+					{
+						"title": "<TextStyle.Orange>Alfa Criopod</>",
+						"text": "O Alfa Criopod é um mod que expande e melhora completamente o sistema de criopods do Ark, trazendo novas ferramentas, funções avançadas e estruturas que facilitam o manejo de criaturas, criação, armazenamento e automação.\r\n\r\nEle é compatível com consoles e foi criado para oferecer versões aprimoradas dos itens vanilla, com foco em utilidade, desempenho e qualidade de vida.\r\n\r\n# Principais Itens e Funções\r\n\r\n1. Alfa Criopod\r\nUm cryopod evoluído, com várias melhorias:\r\nArmazena criaturas sem descarregar.\r\nSuporta criaturas de mods pesados (Primal Fear, Omega etc.).\r\nPermite guardar armaduras, armas, skins e selas junto da criatura.\r\nMostra informações detalhadas da criatura na interface.\r\nBebês crescem 50% mais rápido dentro do pod e já ganham imprint automático.\r\nServidores podem ajustar dezenas de configurações.\r\n\r\n2. Alfa CrioPistol\r\nUma pistola multifuncional com 10 modos diferentes, incluindo:\r\nCaptura simples\r\nCaptura em massa (todas as criaturas em uma área)\r\nLiberação com filtros\r\nClaim de bebês\r\nInformações da criatura\r\nRenomeação automática por regras\r\nMini teleporte de posicionamento\r\nModo de matar (com confirmação)\r\nEditor de buffs (ADM)\r\nControle de mating (ativar/desativar)\r\nOutros destaques:\r\nModos podem ser trocados segurando R ou clicando com o botão direito.\r\n\r\n3. Alfa CrioFreezer\r\nUma versão super aprimorada do freezer:\r\nCaptura automática de bebês com filtros por espécie.\r\nBebês crescem 100% mais rápido dentro do freezer.\r\nNão usa energia.\r\nProdução passiva de recursos.\r\nAltamente configurável para servidores.\r\n\r\n4. Alfa CrioCentral\r\nUma estrutura avançada para criação:\r\nPermite criar ou clonar criaturas sem tirá-las do cryopod.\r\nInterface amigável para acompanhar todo o processo.\r\nIdeal para bases de criação otimizadas.\r\n\r\n5. Vanilla CrioFreezer Plus\r\nUma versão levemente melhorada do freezer vanilla\r\nPode ser empilhado horizontalmente.\r\nExibe ícones personalizados das criaturas.\r\nSem habilidades especiais — ideal para armazenamento simples e longo prazo.\r\n\r\n# Resumo Geral\r\nO mod Alfa Criopod é um pacote completo que:\r\nMelhora o armazenamento de criaturas.\r\nAutomatiza processos de criação.\r\nFacilita o manejo de bebês.\r\nOferece ferramentas poderosas para jogadores e administradores.\r\nMantém compatibilidade com consoles e grandes mods.\r\nÉ uma solução robusta para quem quer organização, automação e eficiência no gerenciamento de criaturas no Ark."
+					},
+					{
+						"title": "<TextStyle.Orange>Solo Farm Mod</>",
+						"text": "O Solo Farm Mod foi criado para ajudar jogadores que jogam sozinhos ou em pequenos grupos no Ark: Survival Ascended. Ele permite que seus dinos farmem automaticamente, sem você precisar ficar montado ou batendo o tempo todo.\r\n\r\nÉ um mod pensado para facilitar a vida de quem quer jogar de forma mais tranquila, sem depender de outras pessoas para coletar recursos.\r\n\r\n# Como funciona na prática\r\n1. Ative o modo de farm no seu dino\r\nCom o item do mod, você pode colocar o seu dino em modo de farm automático.\r\nQuando ativado, ele vai:\r\nRepetir o ataque sozinho\r\nColetar recursos continuamente\r\nParar apenas quando o inventário estiver cheio (ou conforme sua configuração)\r\nVocê só precisa posicionar o dino no lugar certo e ativar o modo.\r\n\r\n2. Escolha o que o dino deve guardar ou jogar fora\r\nO mod permite criar listas de itens:\r\nItens que o dino deve manter\r\nItens que o dino deve descartar automaticamente\r\nIsso evita que o inventário encha com coisas inúteis.\r\n\r\n3. Funciona com quase qualquer criatura\r\nMesmo dinos que normalmente não farmam podem ser habilitados para isso.\r\nAssim, você pode transformar praticamente qualquer criatura em um ajudante de coleta.\r\n\r\n# Por que esse mod é útil?\r\nFacilita a vida de quem joga solo\r\nEconomiza tempo no farm\r\nDeixa o jogo mais leve e menos repetitivo\r\nPermite configurar tudo do jeito que você quiser\r\nFunciona em servidores e singleplayer"
 					}
 				]
 			}
