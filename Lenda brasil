@@ -55,11 +55,11 @@
 				"content": [
 					{
 						"title": "<TextStyle.Orange>Registro</>",
-						"text": "Em Desenvolvimento"
+						"text": "Como se Registrar (ASA-Bot)\r\n\r\n1. Dentro do servidor do ark Lenda Brasil, segure a tecla R, clique em Asa-Bot, vai abrir um segundo menu \"Player Registration\",clique em \"Player Registration\" irá gerar um código de registro \r\n\r\n2. Entre no canal #registro-lenda-brasil no Discord.\r\n\r\n3. Digite o comando: /confirm\r\n \r\n4. Aguarde a resposta do bot com seu Discord ID, Username e EOS ID.\r\n * Tempo estimado de resposta até 3 minutos\r\n\r\nQuando o card de confirmação aparecer, seu registro estará concluído.\r\n\r\nSiga o passo a passo \"Kit Inicial\""
 					},
 					{
 						"title": "<TextStyle.Orange>Kit Inicial</>",
-						"text": "Em Desenvolvimento"
+						"text": "Como Resgatar o Kit Inicial (ASA-Shop-Bot)\r\n\r\n1. Entre no canal #kit-inicial-lenda-brasil no Discord.\r\n\r\n2. Clique no botão Buy no card do Kit Inicial. \r\n * (O Card com botão Buy pode levar alguns minutos para aparecer, aguarde)\r\n\r\n3. Confirme clicando em Confirm Purchase.\r\n\r\nO bot informará que o kit foi entregue no seu inventário dentro do jogo."
 					}
 				]
 			},
