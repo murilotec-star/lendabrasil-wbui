@@ -33,7 +33,7 @@
 				"content": [
 					{
 						"title": "<TextStyle.Orange>INFORMAÇÕES DO SERVIDOR</>",
-						"text": "\r\n\r\n<TextStyle.Red>Leia as Regras!</> \r\n\r\n* Este servidor é gratuito. Caso queira apoiar, confira nossa loja — toda doação é revertida em infraestrutura.\r\n* Comércio em DINHEIRO REAL é proibido e resulta em BAN para comprador e vendedor.\r\n* Considere olhar nossa loja, a doação é revertida para infraestrutura do servidor, seja com bots, mods, novos mapas etc.\r\n* Atualmente para solicitação de Kit inicial é realizado manualmente, faça o cadastro no canal do discord \"Cadastro-ark\" e aguarde ser chamado por um Administrador.\r\n* Seu feedback é muito importante, pode ser realizado via ticket no discord, pelo canal \"Suporte-Ticket\".\r\n\r\n\r\n\r\n<TextStyle.Orange>THE ISLAND — FIXO - Transferência livre (Personagem, Itens, Dino)</>\r\n<TextStyle.Orange>ASTRAEOS — FIXO - Transferência livre (Personagem, Itens, Dino)</>\r\n<TextStyle.Orange>VALGUERO— ROTATIVO 30 DIAS (Será substituído em 16/04/26)</>\r\n\r\n\r\n\r\n> Servidores fixos, são servidores que tem transferência livre entre eles, onde se pode armazenar todo o recurso de outros servidores fixos       e/ou dos rotativos que irão se encerrando ao longo do tempo.\r\n>Servidores Rotativos, geralmente com prazo de 30 dias (A ser definido pela administração). São servidores onde serão permitidos downloads apenas do personagem, mas durante todo o período os recursos e dinos desse servidor poderão ser transferidos para um servidor fixos normalmente."
+						"text": "\r\n\r\n<TextStyle.Red>Leia as Regras!</> \r\n\r\n* Este servidor é gratuito. Caso queira apoiar, confira nossa loja — toda doação é revertida em infraestrutura.\r\n* Comércio em DINHEIRO REAL é proibido e resulta em BAN para comprador e vendedor.\r\n* Considere olhar nossa loja, a doação é revertida para infraestrutura do servidor, seja com bots, mods, novos mapas etc.\r\n* Atualmente para solicitação de Kit inicial é realizado manualmente, faça o cadastro no canal do discord \"Cadastro-ark\" e aguarde ser chamado por um Administrador.\r\n* Seu feedback é muito importante, pode ser realizado via ticket no discord, pelo canal \"Suporte-Ticket\".\r\n\r\n\r\n\r\n\r\n\r\n<TextStyle.Orange>THE ISLAND — FIXO - Transferência livre (Personagem, Itens, Dino)</>\r\n<TextStyle.Orange>ASTRAEOS — FIXO - Transferência livre (Personagem, Itens, Dino)</>\r\n<TextStyle.Orange>VALGUERO— ROTATIVO 30 DIAS (Será substituído em 16/04/26)</>\r\n\r\n> Servidores fixos, são servidores que tem transferência livre entre eles, onde se pode armazenar todo o recurso de outros servidores fixos       e/ou dos rotativos que irão se encerrando ao longo do tempo.\r\n>Servidores Rotativos, geralmente com prazo de 30 dias (A ser definido pela administração). São servidores onde serão permitidos downloads apenas do personagem, mas durante todo o período os recursos e dinos desse servidor poderão ser transferidos para um servidor fixos normalmente."
 					}
 				]
 			},
@@ -55,11 +55,11 @@
 				"content": [
 					{
 						"title": "<TextStyle.Orange>Registro</>",
-						"text": "Como se Registrar (ASA-Bot)\r\n\r\n1. Dentro do servidor do ark Lenda Brasil, segure a tecla R (PC), Quadrado (PS) ou X (Xbox), clique em Asa-Bot, vai abrir um segundo menu \"Player Registration\",clique em \"Player Registration\" irá gerar um código de registro\r\n\r\n2. Entre no canal #registro-lenda-brasil no Discord\r\n\r\n3. Digite o comando: /confirm no chat, ele vai recomendar logo acima o texto pronto \"/confirm [confirmationcode] > Digite o código gerado dentro do jogo (ark ascended) logo em seguida\r\n \r\n4. Aguarde a resposta do bot com seu Discord ID, Username e EOS ID.\r\n * Tempo estimado de resposta até 2 minutos\r\n\r\nQuando o card de confirmação aparecer, seu registro estará concluído.\r\n\r\nSiga o passo a passo \"Kit Inicial\""
+						"text": "Como se Registrar (ASA-Bot)\r\n\r\n1. Dentro do servidor do ark Lenda Brasil, segure a tecla R, clique em Asa-Bot, vai abrir um segundo menu \"Player Registration\",clique em \"Player Registration\" irá gerar um código de registro \r\n\r\n2. Entre no canal #registro-lenda-brasil no Discord.\r\n\r\n3. Digite o comando: /confirm no chat, ele vai recomendar logo acima o texto pronto \"/confirm [confirmationcode] > Digite o código do ark logo em seguida.\r\n \r\n4. Aguarde a resposta do bot com seu Discord ID, Username e EOS ID.\r\n * Tempo estimado de resposta até 3 minutos\r\n\r\nQuando o card de confirmação aparecer, seu registro estará concluído.\r\n\r\nSiga o passo a passo \"Kit Inicial\""
 					},
 					{
 						"title": "<TextStyle.Orange>Kit Inicial</>",
-						"text": "Como Resgatar o Kit Inicial (ASA-Shop-Bot)\r\n\r\n1. Entre no canal kit-inicial-lenda-brasil no Discord\r\n\r\n2. Já possui uma mensagem do Asa Shop Bot fixada KIT INICIAL\r\n\r\n3. Clique no botão Buy no card do Kit Inicial\r\n \r\n4. Confirme clicando em Confirm Purchase\r\n\r\nO bot informará que o kit foi entregue no seu inventário dentro do jogo"
+						"text": "Como Resgatar o Kit Inicial (ASA-Shop-Bot)\r\n\r\n1. Entre no canal kit-inicial-lenda-brasil no Discord.\r\n\r\n2. Aguarde receber a mensagem \"Kit Inicial\" com opção de Buy.\r\n* Essa estapa pode levar 10 minutos para retornar a mensagem\r\n\r\n3. Clique no botão Buy no card do Kit Inicial. \r\n \r\n4. Confirme clicando em Confirm Purchase.\r\n\r\nO bot informará que o kit foi entregue no seu inventário dentro do jogo."
 					}
 				]
 			},
@@ -83,6 +83,10 @@
 			{
 				"text": "Nosso Discord",
 				"url": "https://discord.gg/M7zVEwwVbH"
+			},
+			{
+				"text": "Registro Discord",
+				"url": "https://discord.gg/tVZjTrg3u3"
 			},
 			{
 				"text": "TikTok",
