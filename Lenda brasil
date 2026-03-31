@@ -55,11 +55,11 @@
 				"content": [
 					{
 						"title": "<TextStyle.Orange>Registro</>",
-						"text": "Como se Registrar (ASA-Bot)\r\n\r\n1. Dentro do servidor do ark Lenda Brasil, segure a tecla R, clique em Asa-Bot, vai abrir um segundo menu \"Player Registration\",clique em \"Player Registration\" irá gerar um código de registro \r\n\r\n2. Entre no canal #registro-lenda-brasil no Discord.\r\n\r\n3. Digite o comando: /confirm no chat, ele vai recomendar logo acima o texto pronto \"/confirm [confirmationcode] > Digite o código do ark logo em seguida.\r\n \r\n4. Aguarde a resposta do bot com seu Discord ID, Username e EOS ID.\r\n * Tempo estimado de resposta até 3 minutos\r\n\r\nQuando o card de confirmação aparecer, seu registro estará concluído.\r\n\r\nSiga o passo a passo \"Kit Inicial\""
+						"text": "Como se Registrar (ASA-Bot)\r\n\r\n1. Dentro do servidor do ark Lenda Brasil, segure a tecla R (PC) X (xbox) ou Quadrado (Playstation), clique em Asa-Bot, vai abrir um segundo menu \"Player Registration\",clique em \"Player Registration\" irá gerar um código de registro (anote)\r\n\r\n2. Entre no canal #registro-lenda-brasil no Discord.\r\n\r\n3. Digite o comando: /confirm no chat, ele vai recomendar logo acima o texto pronto \"/confirm [confirmationcode] > Digite o código exibido no ark logo em seguida.\r\n \r\n4. Aguarde a resposta do bot com seu Discord ID, Username e EOS ID.\r\n<TextStyle.green>Tempo estimado de resposta até 3 minutos</>\r\n\r\nQuando o card de confirmação aparecer, seu registro estará concluído.\r\n\r\nSiga o passo a passo \"Kit Inicial\""
 					},
 					{
 						"title": "<TextStyle.Orange>Kit Inicial</>",
-						"text": "Como Resgatar o Kit Inicial (ASA-Shop-Bot)\r\n\r\n1. Entre no canal kit-inicial-lenda-brasil no Discord.\r\n\r\n2. Aguarde receber a mensagem \"Kit Inicial\" com opção de Buy.\r\n* Essa estapa pode levar 10 minutos para retornar a mensagem\r\n\r\n3. Clique no botão Buy no card do Kit Inicial. \r\n \r\n4. Confirme clicando em Confirm Purchase.\r\n\r\nO bot informará que o kit foi entregue no seu inventário dentro do jogo."
+						"text": "1. Acesse o Discord\r\nEntre no canal #kit-inicial-lenda-brasil\r\n\r\n2. Localize a mensagem do bot\r\nProcure pela mensagem fixada do ASA Bot\r\n\r\n3. Clique para comprar\r\nNo card do kit inicial, clique no botão 🛒 Buy\r\n\r\n4. Confirme a compra\r\nClique em ✔ Confirm Purchase\r\n\r\n5. Receba seu kit no jogo\r\nO bot irá informar que o kit foi entregue diretamente no seu inventário dentro do jogo\r\n\r\n\r\n\r\n\r\n\r\n<TextStyle.green>Caso apareça mensagem solicitando registro:</>\r\n\r\nAguarde alguns minutos\r\nO bot ainda está consultando o banco de dados\r\nDepois, repita o processo acima"
 					}
 				]
 			},
