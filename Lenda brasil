@@ -11,7 +11,7 @@
 			"iconposition": 0,
 			"icontextcolor": 0,
 			"openonstart": true,
-			"openonstartonlynewplayers": true,
+			"openonstartonlynewplayers": false,
 			"updateinterval": 12
 		},
 		"tabs": [
@@ -102,7 +102,7 @@
 			},
 			{
 				"text": "Regras",
-				"url": "https://discord.gg/qye3r2PZgE"
+				"url": "https://discord.gg/GppkBYH79T"
 			}
 		],
 		"version": 2
